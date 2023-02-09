@@ -1,0 +1,26 @@
+
+.name {
+    background-origin: padding-box;
+    border: 2px solid lightblue;
+    background-color: aquamarine;
+    font-weight: bold;
+    text-align: center;
+}
+
+#about {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Garamond;
+    text-align: center;
+    background-origin: padding-box;
+    background-color: red;
+    
+}
+
+* {
+    background-color: lightgray;
+}
+
+body {
+    background-color: aqua;
+}
